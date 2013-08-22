@@ -1,0 +1,52 @@
+                                   
+                                   
+                                   
+                             Switch
+                                   
+                    Session Task List Utility
+                                   
+                          Version 1.00
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                           Dave Fisher
+                                   
+                   LiveNet, 1:170/110@fidonet
+                                   
+                                   
+     
+     Description
+     
+     Switch is a very simple program to change the 'Jump'
+     status of a session.  There's really not a lot to say
+     except to run Switch and choose the session you want to
+     toggle as 'Jumpable' or 'Non-Jumpable'.
+     
+     A later revision may make this program a PM
+     application.  But that could be far into the future. .
+     . :)
+     
+     Disclaimer!
+     
+     This program is shareware.  There is absolutely no
+     warranty for this program or guarantee that it will
+     work.  The user of the program assumes all risk.  While
+     I feel confident that this program will not harm your
+     system in any way, by using this program, you agree to
+     assume full responsibility for any adverse effect to
+     your system.
+     
+     Ok.  Now with that out of the way -- please send me
+     mail and let me know if you are using Switch!  I'd like
+     to get an idea of whether this program has been useful
+     for others, as it has been for me.  Also, please send
+     any comments and/or problem reports.  I can be reached
+     at:
+     
+          Dave Fisher
+          1:170/110@fidonet.org
